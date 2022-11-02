@@ -67,6 +67,8 @@ jobs:
             github.com:443
             objects.githubusercontent.com:443
             repo.packagist.org:443
+            packagist.org:443
+            raw.githubusercontent.com:443
 
       - uses: actions/checkout@93ea575cb5d8a053eaa0ac8fa3b40d7e05a33cc8
 
